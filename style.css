@@ -26,11 +26,11 @@ a {
 }
 
 a:hover{
-    opacity: .50;
+    opacity: 0.50;
 }
 
 a:active{
-    opacity: .30;
+    opacity: 0.30;
 }
 
 button {
